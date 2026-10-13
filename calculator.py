@@ -1,3 +1,5 @@
+#calculator project (the code is partially written by me and partially boiler code
+#boiler code is the code that is not written by me but written by ai
 def add(a,b):
     return a+b
 
